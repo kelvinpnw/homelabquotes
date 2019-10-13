@@ -1,0 +1,78 @@
+.footer {
+    text-align: center;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
+
+body {
+    background-color: #36393f;
+    color: white;
+}
+
+.imgcont {
+    text-align: center;
+}
+
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white
+}
+
+#searchinput {
+    color: #f6f6f7;
+    background-color: #4f545c;
+    border: 1px solid #4f545c;
+}
+
+#searchsubmit {
+    background-color: #4f545c;
+    border: 1px solid #4f545c;
+}
+
+.footerhr {
+    width: 50%;
+}
+
+.hrsep {
+    width: 30%;
+    padding: .5em;
+
+}
+
+hr {
+    border-top: 1px solid #dcddde;
+}
+
+img {
+    max-width: 98%;
+}
+
+#secrethackerbutton {
+    font-size: smaller;
+    clear: both;
+    bottom: 0;
+    position: fixed;
+    right: 0;
+    background-color: #36393f;
+    color: #36393f;
+
+}
+
+#secrethackerbutton:hover {
+    color: white;
+
+}
